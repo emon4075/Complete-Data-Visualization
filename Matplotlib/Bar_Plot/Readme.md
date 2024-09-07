@@ -1,5 +1,3 @@
----
-
 # Most Popular Programming Languages Visualization
 
 ## Code Explanation
@@ -119,5 +117,3 @@ plt.show()
 ## Conclusion
 
 This script provides a visualization of the top 10 most popular programming languages based on survey data. By using `Counter` from the `collections` module and Matplotlib, the script effectively counts the frequency of each language and displays the results in a well-organized horizontal bar chart.
-
----
