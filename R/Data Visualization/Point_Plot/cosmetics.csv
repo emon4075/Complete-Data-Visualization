@@ -1,0 +1,72 @@
+Product_Name,Brand,Category,Usage_Frequency,Price_USD,Rating,Number_of_Reviews,Product_Size,Skin_Type,Gender_Target,Packaging_Type,Main_Ingredient,Cruelty_Free,Country_of_Origin
+Ultra Face Mask,Drunk Elephant,Blush,Weekly,67.85,1.4,686,30ml,Sensitive,Female,Tube,Retinol,False,Australia
+Ultra Lipstick,Laura Mercier,Makeup Remover,Occasional,116.43,4.2,5483,250ml,Dry,Unisex,Bottle,Shea Butter,False,UK
+Ultra Serum,Natasha Denona,Highlighter,Daily,90.84,1.6,5039,100ml,Sensitive,Male,Compact,Aloe Vera,True,Italy
+Divine Serum,Ilia Beauty,Face Mask,Occasional,55.17,3.2,6202,250ml,Normal,Male,Tube,Glycerin,True,South Korea
+Super Foundation,Charlotte Tilbury,Highlighter,Occasional,140.56,1.7,297,100ml,Oily,Female,Compact,Glycerin,False,Germany
+Super Eye Shadow,Danessa Myricks,Foundation,Weekly,135.82,3.2,9405,150ml,Sensitive,Female,Compact,Glycerin,True,UK
+Super Lip Gloss,Bourjois,Powder,Monthly,148.99,2.5,2423,250ml,Normal,Female,Jar,Hyaluronic Acid,True,Germany
+Ultra Cleanser,Bourjois,Lip Gloss,Daily,21.43,4.3,8032,200ml,Sensitive,Male,Bottle,Vitamin C,True,Italy
+Magic Highlighter,IT Cosmetics,CC Cream,Occasional,113.09,3.3,2468,200ml,Combination,Unisex,Compact,Vitamin C,True,Germany
+Super Makeup Remover,Drunk Elephant,Face Oil,Daily,99.81,4.3,5068,150ml,Dry,Male,Compact,Vitamin C,False,USA
+Ultra Highlighter,Laura Mercier,Powder,Daily,123.54,4.3,4556,100ml,Dry,Female,Spray,Vitamin C,True,Italy
+Super Contour,Clinique,Moisturizer,Daily,29.68,2.7,1471,250ml,Combination,Male,Stick,Shea Butter,False,Japan
+Divine Exfoliator,Natasha Denona,Serum,Weekly,114.88,4.6,2343,200ml,Normal,Female,Stick,Retinol,False,Australia
+Perfect Primer,Danessa Myricks,Serum,Daily,25.85,4.9,6611,100ml,Dry,Unisex,Compact,Hyaluronic Acid,False,UK
+Ultra Moisturizer,Yves Saint Laurent,Highlighter,Monthly,51.5,1.6,4977,200ml,Sensitive,Male,Bottle,Glycerin,False,Italy
+Ultra Moisturizer,Yves Saint Laurent,Exfoliator,Weekly,17.56,2.3,592,30ml,Oily,Unisex,Jar,Retinol,False,USA
+Super Mascara,Kylie Cosmetics,Mascara,Occasional,77.14,3.0,4045,200ml,Oily,Unisex,Jar,Glycerin,True,Italy
+Divine Blush,Ilia Beauty,Eyeliner,Daily,119.24,3.9,3519,50ml,Normal,Unisex,Jar,Glycerin,False,Australia
+Super Eye Shadow,Tatcha,Highlighter,Weekly,59.02,3.1,6479,100ml,Dry,Male,Compact,Aloe Vera,True,UK
+Perfect Mascara,ColourPop,Eyeliner,Occasional,132.59,1.2,3162,100ml,Combination,Female,Jar,Salicylic Acid,False,Australia
+Super Foundation,Huda Beauty,Eyeliner,Weekly,139.44,2.6,7638,150ml,Combination,Male,Stick,Salicylic Acid,True,Japan
+Ultra BB Cream,Kiehl’s,Face Mask,Weekly,93.8,4.4,1340,30ml,Sensitive,Male,Bottle,Vitamin C,False,Italy
+Ultra Eye Shadow,Sisley,Face Oil,Occasional,47.07,3.3,108,250ml,Combination,Female,Compact,Retinol,False,Japan
+Ultra Lipstick,Bobby Brown,Eyeliner,Occasional,99.5,1.5,4727,200ml,Oily,Female,Spray,Aloe Vera,True,Italy
+Perfect Makeup Remover,Farsali,Lipstick,Occasional,24.9,3.5,8548,200ml,Oily,Female,Jar,Glycerin,True,South Korea
+Super Lip Gloss,Bobby Brown,Concealer,Weekly,95.5,1.9,8474,100ml,Dry,Unisex,Bottle,Salicylic Acid,True,Germany
+Ultra Makeup Remover,NARS,Setting Spray,Occasional,67.8,3.2,4716,30ml,Sensitive,Male,Jar,Salicylic Acid,False,Australia
+Ultra Powder,Kiehl’s,Exfoliator,Weekly,104.38,2.2,2030,250ml,Sensitive,Male,Tube,Salicylic Acid,True,France
+Magic Eyeliner,NARS,Mascara,Monthly,13.65,3.7,6179,100ml,Normal,Female,Tube,Hyaluronic Acid,False,USA
+Magic Contour,Rare Beauty,BB Cream,Monthly,129.97,1.8,9660,250ml,Dry,Unisex,Spray,Retinol,True,South Korea
+Ultra Lip Gloss,Kiehl’s,Lipstick,Occasional,35.07,2.0,4870,50ml,Combination,Female,Spray,Aloe Vera,True,Germany
+Magic Powder,Huda Beauty,BB Cream,Daily,82.7,2.4,618,30ml,Sensitive,Unisex,Jar,Shea Butter,False,UK
+Super Mascara,Bourjois,CC Cream,Monthly,91.59,1.4,8291,50ml,Dry,Unisex,Tube,Shea Butter,False,South Korea
+Magic Exfoliator,Laura Mercier,Highlighter,Daily,115.08,4.1,3857,30ml,Oily,Unisex,Compact,Aloe Vera,False,South Korea
+Perfect BB Cream,Yves Saint Laurent,Foundation,Occasional,114.52,2.3,8119,250ml,Oily,Male,Stick,Shea Butter,False,Germany
+Perfect Contour,Charlotte Tilbury,Makeup Remover,Weekly,40.37,4.2,6466,30ml,Oily,Unisex,Compact,Salicylic Acid,False,South Korea
+Perfect CC Cream,Bobby Brown,Foundation,Occasional,124.86,1.2,931,200ml,Oily,Unisex,Bottle,Aloe Vera,False,Japan
+Perfect Blush,Patrick Ta,Primer,Daily,115.1,1.7,2713,250ml,Combination,Unisex,Bottle,Aloe Vera,True,Germany
+Divine Lipstick,NARS,BB Cream,Weekly,54.98,4.7,3673,250ml,Normal,Unisex,Bottle,Aloe Vera,True,France
+Divine Moisturizer,Morphe,Moisturizer,Occasional,137.99,4.3,6516,150ml,Combination,Female,Compact,Glycerin,True,Italy
+Super Mascara,Charlotte Tilbury,Lip Liner,Daily,52.3,4.3,6436,200ml,Combination,Male,Tube,Vitamin C,True,Italy
+Ultra Exfoliator,Too Faced,Mascara,Daily,55.58,3.0,9844,200ml,Dry,Female,Stick,Aloe Vera,False,Italy
+Magic Concealer,Ilia Beauty,Lip Gloss,Daily,36.18,3.4,1407,200ml,Sensitive,Male,Tube,Salicylic Acid,False,Australia
+Magic Face Oil,Bourjois,Eyeliner,Monthly,30.62,4.3,7344,250ml,Oily,Unisex,Tube,Vitamin C,True,Italy
+Divine Blush,Juvia’s Place,Eye Shadow,Weekly,58.28,1.6,9373,30ml,Dry,Female,Tube,Shea Butter,False,Australia
+Super Bronzer,Charlotte Tilbury,Cleanser,Weekly,22.07,3.4,9769,200ml,Combination,Female,Jar,Shea Butter,True,USA
+Ultra Eye Shadow,Hourglass,Moisturizer,Monthly,114.86,4.0,8967,250ml,Dry,Male,Jar,Salicylic Acid,True,Germany
+Divine Powder,Clinique,Foundation,Daily,16.27,2.5,1466,50ml,Sensitive,Female,Bottle,Hyaluronic Acid,False,UK
+Divine Concealer,Morphe,Lipstick,Monthly,11.61,1.4,7513,250ml,Normal,Female,Compact,Vitamin C,True,South Korea
+Perfect Powder,Too Faced,Concealer,Occasional,60.26,1.2,1179,30ml,Normal,Male,Stick,Vitamin C,True,Italy
+Super Mascara,Morphe,Lip Gloss,Occasional,127.49,2.5,8794,30ml,Dry,Male,Stick,Hyaluronic Acid,True,South Korea
+Perfect Makeup Remover,Tarte,Lipstick,Occasional,14.66,3.7,7697,30ml,Sensitive,Unisex,Stick,Aloe Vera,False,UK
+Divine Lipstick,Danessa Myricks,Lipstick,Daily,97.24,1.0,8978,150ml,Dry,Unisex,Jar,Vitamin C,False,France
+Magic Concealer,Milk Makeup,Foundation,Daily,97.2,3.3,1736,100ml,Sensitive,Female,Jar,Hyaluronic Acid,False,Australia
+Ultra Moisturizer,Shiseido,Powder,Weekly,142.78,3.2,231,200ml,Sensitive,Male,Jar,Aloe Vera,False,Italy
+Divine Mascara,Sisley,Bronzer,Daily,131.51,1.7,8824,30ml,Dry,Unisex,Compact,Hyaluronic Acid,False,South Korea
+Divine Powder,Becca,Lip Gloss,Monthly,107.48,2.0,1825,200ml,Dry,Male,Tube,Hyaluronic Acid,True,Germany
+Perfect Moisturizer,ColourPop,Mascara,Monthly,14.89,3.1,3101,200ml,Oily,Unisex,Stick,Aloe Vera,True,USA
+Magic Eyeliner,Patrick Ta,Face Mask,Daily,131.64,2.8,1470,250ml,Sensitive,Unisex,Tube,Aloe Vera,True,Italy
+Perfect Powder,Farsali,Serum,Weekly,76.35,2.1,7652,250ml,Dry,Unisex,Jar,Salicylic Acid,True,USA
+Magic Serum,Kiehl’s,Highlighter,Occasional,65.37,4.2,811,30ml,Combination,Unisex,Jar,Shea Butter,False,South Korea
+Magic Mascara,Perricone MD,Powder,Weekly,59.93,4.8,5482,250ml,Dry,Male,Jar,Aloe Vera,True,USA
+Divine Lip Liner,Tatcha,Blush,Daily,36.96,1.1,5452,200ml,Normal,Female,Bottle,Shea Butter,False,UK
+Magic Face Oil,Bourjois,Eyeliner,Monthly,30.62,4.3,7344,250ml,Oily,Unisex,Tube,Vitamin C,True,Italy
+Divine Blush,Juvia’s Place,Eye Shadow,Weekly,58.28,1.6,9373,30ml,Dry,Female,Tube,Shea Butter,False,Australia
+Super Bronzer,Charlotte Tilbury,Cleanser,Weekly,22.07,3.4,9769,200ml,Combination,Female,Jar,Shea Butter,True,USA
+Ultra Eye Shadow,Hourglass,Moisturizer,Monthly,114.86,4.0,8967,250ml,Dry,Male,Jar,Salicylic Acid,True,Germany
+Divine Powder,Clinique,Foundation,Daily,16.27,2.5,1466,50ml,Sensitive,Female,Bottle,Hyaluronic Acid,False,UK
+Divine Concealer,Morphe,Lipstick,Monthly,11.61,1.4,7513,250ml,Normal,Female,Compact,Vitamin C,True,South Korea
+Perfect Powder,Too Faced,Concealer,Occasional,60.26,1.2,1179,30ml,Normal,Male,Stick,Vitamin C,True,Italy
+Super Mascara,Morphe,Lip Gloss,Occasional,127.49,2.5,8794,30ml,Dry,Male,Stick,Hyaluronic Acid,True,South Korea
