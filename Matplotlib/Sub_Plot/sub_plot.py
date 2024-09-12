@@ -1,7 +1,7 @@
 from matplotlib import pyplot as plt
 import pandas as pd
 
-plt.style.use("ggplot")
+plt.style.use("fivethirtyeight")
 
 data_frame = pd.read_csv(r"Matplotlib\Sub_Plot\IPL.csv")
 
@@ -13,7 +13,7 @@ Away_Wins = data_frame["away_wins"][:5]
 
 plt.subplot(2, 1, 1)
 plt.plot(Teams, Home_Wins, marker=".", label="Home Wins", ls=":")
-plt.plot(Teams, Home_Matches, marker=".", label="Home Matches")
+plt.plot(Teams, Home_Matches, marker=".", label="Home Matches", lw=1)
 plt.legend()
 
 plt.subplot(2, 1, 2)

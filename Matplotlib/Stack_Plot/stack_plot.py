@@ -1,6 +1,7 @@
 from matplotlib import pyplot as plt
 import pandas as pd
 
+plt.style.use("fivethirtyeight")
 data_frame = pd.read_csv(r"Matplotlib\Stack_Plot\temperature_data.csv")
 X_Axis = data_frame["Time"]
 X_Axis = sorted(set(X_Axis))
@@ -15,8 +16,6 @@ Color_Schemes = ["#FF6347", "#39FF14", "#00FFFF", "#FFF44F", "#FF69B4"]
 
 Label = ["September_1", "September_2", "September_3", "September_4", "September_5"]
 
-
-# print(September_1)
 plt.stackplot(
     X_Axis,
     September_1,
@@ -31,6 +30,8 @@ plt.stackplot(
 plt.xlabel("Time")
 plt.ylabel("Temperature")
 plt.title("My Stack Chart")
+
+plt.xticks(rotation=45)
 
 plt.legend()
 plt.tight_layout()

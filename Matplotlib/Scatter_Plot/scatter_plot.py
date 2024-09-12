@@ -2,7 +2,8 @@ from matplotlib import pyplot as plt
 import pandas as pd
 import numpy as np
 
-plt.style.use("ggplot")
+plt.style.use("fivethirtyeight")
+# print(plt.style.available)
 
 data_frame = pd.read_csv(r"Matplotlib/Scatter_Plot/YT_Data.csv")
 Views = data_frame["View_Count"]

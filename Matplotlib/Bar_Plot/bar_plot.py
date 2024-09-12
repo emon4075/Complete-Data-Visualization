@@ -4,6 +4,7 @@ from collections import Counter
 from matplotlib import pyplot as plt
 
 plt.style.use("Solarize_Light2")
+# plt.style.use("fivethirtyeight")
 data_frame = pd.read_csv(r"Matplotlib\Bar_Plot\data.csv")
 
 Language_Response = data_frame["LanguagesWorkedWith"]

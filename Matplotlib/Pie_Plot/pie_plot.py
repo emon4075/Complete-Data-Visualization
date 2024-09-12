@@ -1,6 +1,7 @@
 from matplotlib import pyplot as plt
 
-plt.style.use("Solarize_Light2")
+plt.style.use("fivethirtyeight")
+# plt.xkcd()
 
 Used_By = [59219, 55466, 47544, 36443, 35917]
 Languages = ["JavaScript", "HTML/CSS", "SQL", "Python", "Java"]
