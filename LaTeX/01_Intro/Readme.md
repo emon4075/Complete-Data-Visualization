@@ -34,4 +34,3 @@ The formula for a square is $Area=x^2$
 
 7. **\end{document}**  
    This marks the end of the document. LaTeX will stop processing at this point.
-```

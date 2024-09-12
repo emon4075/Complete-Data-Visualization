@@ -110,4 +110,3 @@ About $\dfrac{2}{3}$ of the glass is Full
       
 12. **\end{document}**  
     This marks the end of the document content.
-```
