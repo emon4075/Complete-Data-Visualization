@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage{tikz}
+
+\begin{document}
+\begin{figure}
+    \centering
+    \begin{tikzpicture}[scale=2, thick, blue]
+    
+        \node[draw, circle, text=black] at (-0.3,0) {P(A)};
+
+        \draw[->] (0,0) -- (2,0.98) node[above] {Tail};
+        \draw[->] (0,0) -- (2,-1) node[right] {Head};
+
+        \draw[->] (2,1) -- (4,2) node[right] {Tail};
+        \draw[->] (2,1) -- (4,0) node[right] {Head};
+        \draw[->] (2,-1) -- (4,-0.2) node[right] {Tail};
+        \draw[->] (2,-1) -- (4,-2) node[right] {Head};
+    \end{tikzpicture}
+    \caption{Probability Tree Diagram}
+\end{figure}
+\end{document}
