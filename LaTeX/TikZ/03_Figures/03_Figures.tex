@@ -1,0 +1,17 @@
+\documentclass{article}
+\usepackage{tikz}
+\begin{document}
+	%\begin{tikzpicture}[domain = 0:6]
+	\begin{tikzpicture}
+	
+	\draw[<->,ultra thick] (-2,0) -- (10,0)node[right] {X-Axis};
+	\draw[<->,ultra thick] (0,-2) -- (0,6) node[above] {Y-Axis};
+	\draw[gray, ultra thin] (-3,-3) grid (9.9,5.9);
+	
+	%\draw[domain = 0:8,thick] plot(\x,\x);
+	\draw[domain=0:3,thick,orange,->] plot(\x,\x*2) node[above]{$y = 2x$};
+	\draw[domain = -1.5:1.5,thick,blue] plot(\x,{4*\x*\x}) node[left]{$y=4x^2$};
+	\draw[domain = -1:5,thick,green] plot(\x,{\x+1}) node[above]{$y=x+1$};
+	
+	\end{tikzpicture}
+\end{document}
