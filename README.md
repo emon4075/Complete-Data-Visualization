@@ -26,7 +26,7 @@ This repository, **Complete Data Visualization**, is a collection of materials a
 - **Packages (LaTeX):**  
   - `TikZ`  
   - `Beamer`
-  - `movie9`
+  - `media9`
   - `animate`
   - `PGFPlots`
 - **Version Control:** Git, GitHub
