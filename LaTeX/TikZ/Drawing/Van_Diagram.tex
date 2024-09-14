@@ -1,0 +1,18 @@
+\documentclass{article}
+\usepackage{tikz}
+\begin{document}
+	\begin{figure}
+		\begin{center}
+			\begin{tikzpicture}[thick]
+				\draw (0,0) circle[radius = 3];
+				\draw[fill,red] (0,0) circle[radius = 0.05];
+				\draw (5,0) circle[radius = 3];
+				\draw[fill,blue] (5,0) circle[radius = 0.05];
+				\draw (2.5,-4) circle[radius = 3];
+				\draw[fill,green] (2.5,-4) circle[radius = 0.05];
+				\draw (-4,-8) rectangle(9,4);
+			\end{tikzpicture}
+			\caption{Van Diagram}
+		\end{center}
+	\end{figure}
+\end{document}
